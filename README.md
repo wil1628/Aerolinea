@@ -1,16 +1,29 @@
-# React + Vite
+# ✈️ Fly74 - Sitio Web Oficial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sitio web informativo y funcional para la aerolínea costarricense Fly74, desarrollado con **React** y **Tailwind CSS**, con diseño moderno, responsivo y desplegado en **Vercel**.
 
-Currently, two official plugins are available:
+🌐 Sitio en producción: https://aerolinea74.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 Características
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Página principal con presentación de la marca
+- Sección "Sobre nosotros"
+- Información de la aeronave
+- Información del piloto
+- Sección "Próximamente"
+- Footer con contacto
+- Diseño 100% responsive (móvil, tablet y escritorio)
+- Despliegue automático en Vercel
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologías utilizadas
+
+- ⚛️ React
+- 🎨 Tailwind CSS
+- 🌍 Vercel (deploy)
+- 📁 GitHub (control de versiones)
+
+---
