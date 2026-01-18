@@ -3,11 +3,11 @@ export default function Hero() {
         <section
             id="hero"
             className="
-                relative w-full h-[90vh]
-                flex justify-center items-center text-center
-                bg-cover bg-center bg-no-repeat
-            "
-            style={{ backgroundImage: "url('/77572-Guanacaste-North-Pacific-Coast.webp')" }}
+        relative w-full h-[90vh]
+        flex justify-center items-center text-center
+        bg-cover bg-center bg-no-repeat
+        "
+            style={{ backgroundImage: "url('/kuma.jpeg')" }}
         >
             {/* Capa oscura para mejorar la legibilidad */}
             <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/60"></div>
@@ -19,11 +19,11 @@ export default function Hero() {
                 </h1>
 
                 <p className="mt-6 text-lg md:text-2xl text-blue-100 leading-relaxed">
-                    Una nueva forma de conectar Costa Rica desde el cielo.
+                    Muy pronto, transformaremos la forma de volar dentro de Costa Rica.
                 </p>
 
                 <p className="mt-4 text-xl md:text-2xl font-semibold text-yellow-300 drop-shadow-lg">
-                    Próximamente estaremos operando con todos nuestros servicios.
+                    Estamos preparando una experiencia aérea moderna, segura y accesible.
                 </p>
             </div>
         </section>

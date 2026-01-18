@@ -23,7 +23,7 @@ export default function Aircraft() {
 
             <div className="mt-10 flex justify-center">
                 <img
-                    src="/public/14-911_0151_16x9.jpg"
+                    src="/14-911_0151_16x9.jpg"
                     alt="Aeronave Piper Arrow"
                     className="w-full max-w-2xl h-auto rounded-xl shadow-xl object-cover"
                 />

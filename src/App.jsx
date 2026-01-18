@@ -12,10 +12,6 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <About />
-      <Aircraft />
-      <Pilot />
-      <ComingSoon />
       <Footer />
     </>
   )

@@ -15,20 +15,13 @@ export default function Footer() {
 
                 {/* Navegación */}
                 <div>
-                    <h4 className="text-lg font-semibold mb-4 text-blue-200">Navegación</h4>
-                    <ul className="space-y-2">
-                        <li><a href="#hero" className="hover:text-blue-300 transition">Inicio</a></li>
-                        <li><a href="#about" className="hover:text-blue-300 transition">Nosotros</a></li>
-                        <li><a href="#aircraft" className="hover:text-blue-300 transition">Aeronaves</a></li>
-                        <li><a href="#pilot" className="hover:text-blue-300 transition">Piloto</a></li>
-                        <li><a href="#coming-soon" className="hover:text-blue-300 transition">Próximamente</a></li>
-                    </ul>
+
                 </div>
 
                 {/* Contacto */}
                 <div>
                     <h4 className="text-lg font-semibold mb-4 text-blue-200">Contacto</h4>
-                    <p className="text-blue-200 text-sm">Correo: info@fly74.com</p>
+                    <p className="text-blue-200 text-sm">Correo: info@charq.com</p>
                     <p className="text-blue-200 text-sm mt-2">Teléfono: +506 2232-2525</p>
                     <p className="text-blue-200 text-sm mt-2">Costa Rica</p>
                 </div>
